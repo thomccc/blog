@@ -1,4 +1,6 @@
-
+#imgOne {
+  width: 80vw;
+}
 
 .navbar-lewagon {
   justify-content: space-between;
